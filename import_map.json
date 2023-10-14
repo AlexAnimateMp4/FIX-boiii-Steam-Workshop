@@ -1,0 +1,5 @@
+{
+    "imports": {
+        "path": "https://deno.land/std@0.201.0/path/mod.ts"
+    }
+}

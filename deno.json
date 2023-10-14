@@ -1,0 +1,7 @@
+{
+    "tasks": {
+        "start": "deno run main.js",
+        "build": "deno compile --output FIX_boiii_Steam_Workshop main.js"
+    },
+    "importMap": "./import_map.json"
+}
